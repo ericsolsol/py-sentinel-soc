@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-26T00:38:22Z", "event_type": "BRUTE_FORCE_DETECTED", "severity": "HIGH", "source_ip": "192.168.1.100", "attempts_count": 3, "action_enforced": "IPTABLES_DROP", "target_service": "SSH"}
+{"timestamp": "2026-10-26T00:39:29Z", "event_type": "BRUTE_FORCE_DETECTED", "severity": "HIGH", "source_ip": "192.168.1.100", "attempts_count": 3, "action_enforced": "IPTABLES_DROP", "target_service": "SSH"}
+{"timestamp": "2026-10-26T00:42:26Z", "event_type": "BRUTE_FORCE_DETECTED", "severity": "HIGH", "source_ip": "192.168.1.100", "attempts_count": 3, "action_enforced": "IPTABLES_DROP", "target_service": "SSH"}
